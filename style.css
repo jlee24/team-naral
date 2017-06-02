@@ -1,0 +1,103 @@
+.tooltip {
+
+  background: #E81C2C;
+	border: 1px solid transparent;
+	padding: 10px;
+	border-radius: 0px;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+	position: absolute;
+	width: 190px;
+  z-index: 1;
+  left: -19.5%;
+  bottom: 109%;
+/*  left: -155px;
+  top: -8px;*/
+  font-family: 'Helvetica';
+  font-weight: lighter;
+  color: white;
+  word-break: normal;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+
+.warning {
+  text-align: center;
+  top: -20%;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.info {
+  text-align: center;
+  font-size: 12.5px;
+  top: 5%;
+}
+
+.redirect {
+  color: white;
+  text-align: center;
+  font-size: 12.5px;
+}
+
+.here {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'Stolzl';
+  /*src: url('chrome-extension://__MSG_pnonbookinnhjleijfbcbdidkgkigfam__Stolzl-Regular.otf');*/
+  src: url('Stolzl-Regular.otf');
+}
+
+/*
+.tooltip:before {
+  position: absolute;
+	display: inline-block;
+
+  border-bottom: 7px solid transparent;
+	border-top: 7px solid transparent;
+	border-left: 7px solid #E81C2C;
+  border-left-color: #E81C2C;
+
+	left: 120px;
+	top: 7px;
+	content: '';
+}
+*/
+
+.tooltip:after {
+ 	position: absolute;
+	display: inline-block;
+
+  border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-top: 6px solid #E81C2C;
+
+	left: 45%;
+	top: 100%;
+	content: '';
+}
+
+/*
+.tooltip:after {
+ 	position: absolute;
+	display: inline-block;
+
+  border-bottom: 6px solid transparent;
+  border-top: 6px solid transparent;
+	border-left: 6px solid #E81C2C;
+
+	left: 120px;
+	top: 8px;
+	content: '';
+}
+*/
+
+.icon {
+  position: absolute;
+  left: -4%;
+  top: -1%;
+}

@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+    "name": "CPC Alert",
+    "description": "Alert user of CPCs",
+    "version": "1.0",
+    "web_accessible_resources": ["alert.png", "Stolzl-Regular.otf"],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": ["content.js"],
+            "css": ["style.css"],
+            "run_at": "document_end"
+        }
+    ]
+}

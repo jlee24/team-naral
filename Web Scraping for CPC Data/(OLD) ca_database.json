@@ -1,0 +1,567 @@
+{
+    "www.elapc.com": {
+        "city": "Monterey Park", 
+        "name": "East Los Angeles Pregnancy Center", 
+        "number": "(323) 728-1292"
+    }, 
+    "www.familylifepc.org": {
+        "city": "Tehachapi", 
+        "name": "Family Life Pregnancy Center", 
+        "number": "(661) 823-8255"
+    }, 
+    "www.foothillsprc.org": {
+        "city": "Duarte", 
+        "name": "Foothills Pregnancy Resource Center", 
+        "number": "(626) 358-2122"
+    }, 
+    "www.lifelightcenter.org": {
+        "city": "Redding", 
+        "name": "Life Light Pregnancy Help Center", 
+        "number": "(530) 222-5200"
+    }, 
+    "www.phcstockton.org": {
+        "city": "Stockton", 
+        "name": "Pregnancy Help Center of Stockton", 
+        "number": "(209) 933-9131"
+    }, 
+    "www.obria.org": {
+        "city": "Orange", 
+        "name": "ObriaMedical Clinic", 
+        "number": "714-516-9045"
+    }, 
+    "www.graceelliottcenter.org": {
+        "city": "Compton", 
+        "name": "The Grace Elliot Center", 
+        "number": "(310) 635-0181"
+    }, 
+    "www.capsonline.org": {
+        "city": "San Diego", 
+        "name": "College Area Pregnancy Services", 
+        "number": "(858) 866-0484"
+    }, 
+    "www.mytoughchoices.com": {
+        "city": "Hollister", 
+        "name": "Compassion Pregnancy Services", 
+        "number": "(831) 637-4020"
+    }, 
+    "www.pregnancysalinas.com": {
+        "city": "Salinas", 
+        "name": "Confidence Pregnancy Center", 
+        "number": "(831) 757-5500"
+    }, 
+    "www.livermoreprc.org": {
+        "city": "Livermore", 
+        "name": "Livermore Pregnancy Resource Center", 
+        "number": "(925) 447-1111"
+    }, 
+    "www.saclife.org": {
+        "city": "Sacramento", 
+        "name": "Sacramento Life Center", 
+        "number": "(916) 451-2273"
+    }, 
+    "www.lapsforlife.org": {
+        "city": "Los Angeles", 
+        "name": "Los Angeles Pregnancy Services", 
+        "number": "(213) 382-5643"
+    }, 
+    "www.treeoflifepsc.com": {
+        "city": "Atascadero", 
+        "name": "Tree of Life Pregnancy Support Center", 
+        "number": "(805) 461-3420"
+    }, 
+    "www.modestopregnancycenter.com": {
+        "city": "Modesto", 
+        "name": "Modesto Pregnancy Center", 
+        "number": "(209) 526-1734"
+    }, 
+    "www.wrcoptions.org": {
+        "city": "Thousand Oaks", 
+        "name": "Conejo Valley Women's Resource Center", 
+        "number": "(805) 373-1222"
+    }, 
+    "www.yvpcc.com": {
+        "city": "Yucaipa", 
+        "name": "Yucaipa Valley Pregnancy Counseling Center", 
+        "number": "(909) 797-6769"
+    }, 
+    "www.casateresa.com": {
+        "city": "Orange", 
+        "name": "Casa Theresa's Home", 
+        "number": "(714) 538-4860"
+    }, 
+    "www.phctorrance.org": {
+        "city": "Torrance", 
+        "name": "Pregnancy Help Center", 
+        "number": "(310) 787-4357"
+    }, 
+    "www.pregnancyparadise.com": {
+        "city": "Paradise", 
+        "name": "Carenet Pregnancy Center of Paradise", 
+        "number": "(530) 876-1113"
+    }, 
+    "www.SierraPH.org": {
+        "city": "Roseville", 
+        "name": "Sierra Pregnancy and Health", 
+        "number": "(916) 624-8990"
+    }, 
+    "www.realoptions.net": {
+        "city": "San Jose", 
+        "name": "RealOptions Pregnancy Medical Clinics ", 
+        "number": "(408) 272-5577"
+    }, 
+    "ww1.iwvisp.com": {
+        "city": "Ridgecrest", 
+        "name": "Pregnancy Care Center", 
+        "number": "(760) 384-2273"
+    }, 
+    "www.doorsofhope.com": {
+        "city": "Madera", 
+        "name": "Doors of Hope Pregnancy Care Center", 
+        "number": "(559) 662-8629"
+    }, 
+    "www.horizonpc.org": {
+        "city": "Huntington Beach", 
+        "name": "Horizon Pregnancy Center", 
+        "number": "(714) 897-7500"
+    }, 
+    "www.pregnanthelp4u.org": {
+        "city": "Mission Hills", 
+        "name": "Pregnancy Counseling Center", 
+        "number": "(818) 895-2500"
+    }, 
+    "www.choicesandoptions.com": {
+        "city": "Oakhurst", 
+        "name": "Helping Hands Pregnancy & Parenting Center", 
+        "number": "(559) 642-2229"
+    }, 
+    "www.theharvesthome.net": {
+        "city": "Santa Monica", 
+        "name": "Harvest Home Pregnancy Center", 
+        "number": "(310) 452-1233"
+    }, 
+    "www.mantecapregnancyhelpcenter.com": {
+        "city": "Manteca", 
+        "name": "Manteca Right to Life", 
+        "number": "(209) 239-9899"
+    }, 
+    "www.ramonapregnancy.org": {
+        "city": "Ramona", 
+        "name": "Ramona Pregnancy Care Clinic", 
+        "number": "(760) 789-7059"
+    }, 
+    "www.callforlifehighdesert.org": {
+        "city": "Hesperia", 
+        "name": "Call For Life Pregnancy Help Center", 
+        "number": "(760) 244-7675"
+    }, 
+    "www.ltbm.org": {
+        "city": "Sacramento", 
+        "name": "Love Them Both Ministries Maternity Home", 
+        "number": "866-554-5683"
+    }, 
+    "www.birthchoice.com": {
+        "city": "Santa Ana", 
+        "name": "Birth Choice Santa Ana", 
+        "number": "(714) 442-2551"
+    }, 
+    "www.tracyprc.org": {
+        "city": "Tracy", 
+        "name": "Crisis Pregnancy Center of Tracy", 
+        "number": "(209) 836-4415"
+    }, 
+    "www.alphaprc.org": {
+        "city": "Vallejo", 
+        "name": "Alpha Pregnancy Resource Center", 
+        "number": "(707) 643-2575"
+    }, 
+    "www.valleypregnancycenter.org": {
+        "city": "Pleasanton", 
+        "name": "Valley Pregnancy Center", 
+        "number": "(925) 828-4458"
+    }, 
+    "www.crossroadscpc.com": {
+        "city": "Hanford", 
+        "name": "Crossroads Pregnancy Center", 
+        "number": "(559) 583-1900"
+    }, 
+    "www.awomenscarecenter.org": {
+        "city": "Chino", 
+        "name": "Women's Care Center of Chino", 
+        "number": "(909) 544-2723"
+    }, 
+    "www.optionsforwomenca.com": {
+        "city": "Concord", 
+        "name": "Options for Women", 
+        "number": "(925) 827-0100"
+    }, 
+    "www.cpcglobal1.org": {
+        "city": "Simi Valley", 
+        "name": "Community Pregnancy Clinic", 
+        "number": "(805) 583-3598"
+    }, 
+    "www.ojailifechoices.org": {
+        "city": "Ojai Valley", 
+        "name": "Life Choices Pregnancy Clinic of Ojai Valley", 
+        "number": "(805) 646-6830"
+    }, 
+    "www.firstresort.org": {
+        "city": "San Francisco", 
+        "name": "First Resort Pregnancy Counseling Women's Health Clinic", 
+        "number": "(415) 627-9175"
+    }, 
+    "www.carepregnancycenter.com": {
+        "city": "Visalia", 
+        "name": "Care Pregnancy Center of Tulare County", 
+        "number": "(559) 625-5550"
+    }, 
+    "www.pregnancychoicesclinic.com": {
+        "city": "Union City", 
+        "name": "Pregnancy Choices Clinic", 
+        "number": "(510) 487-4357"
+    }, 
+    "www.pactlaketahoe.org": {
+        "city": "South Lake Tahoe", 
+        "name": "Pregnancy Assistance Center of Tahoe", 
+        "number": "(530) 541-3171"
+    }, 
+    "www.pregnancyresourcecenter.com": {
+        "city": "Vista", 
+        "name": "Pregnancy Resource Center", 
+        "number": "(760) 945-4673"
+    }, 
+    "www.wpclinic.org": {
+        "city": "Los Angeles", 
+        "name": "Westside Pregnancy Clinic", 
+        "number": "(310) 268-8400"
+    }, 
+    "www.pregnancyescondido.com": {
+        "city": "Escondido", 
+        "name": "Alternatives Women's Center", 
+        "number": "(760) 741-9796"
+    }, 
+    "www.prcoflodi.org": {
+        "city": "Lodi", 
+        "name": "Pregnancy Resource Center & Clinic", 
+        "number": "(209) 368-7190"
+    }, 
+    "www.silentvoices.org": {
+        "city": "Chula Vista", 
+        "name": "Silent Voices, Inc", 
+        "number": "(619) 422-0757"
+    }, 
+    "www.care4mybody.com": {
+        "city": "Fresno", 
+        "name": "Pregnancy Care Center", 
+        "number": "(559) 237-0683"
+    }, 
+    "www.birthchoiceclinic.org": {
+        "city": "Placentia", 
+        "name": "Birth Choice Pregnancy Center", 
+        "number": "(714) 442-2494"
+    }, 
+    "www.sienahouse.org": {
+        "city": "Santa Cruz", 
+        "name": "Siena House Maternity Home", 
+        "number": "(831) 425-2229"
+    }, 
+    "www.vclifecenters.com": {
+        "city": "Oxnard", 
+        "name": "Life Centers of Ventura County", 
+        "number": "(800) 973-7334"
+    }, 
+    "www.localpregnancyoptions.org": {
+        "city": "Redding", 
+        "name": "CareNet Pregnancy Center of Northern California", 
+        "number": "(530) 246-7075"
+    }, 
+    "www.pregnancyliferesourcecenter.net": {
+        "city": "San Jose", 
+        "name": "Alameda Pregnancy Counseling Center", 
+        "number": "(408) 249-6707"
+    }, 
+    "www.lifelinepregnancycenter.org": {
+        "city": "Grover Beach", 
+        "name": "Lifeline Crisis Pregnancy Center", 
+        "number": "(805) 481-4987"
+    }, 
+    "www.caring4women.org": {
+        "city": "Oroville", 
+        "name": "Caring for Women CPC", 
+        "number": "(530) 533-8388"
+    }, 
+    "www.networkmedical.org": {
+        "city": "24 hr Line", 
+        "name": "Network Medical Pregnancy Center Helpline", 
+        "number": "(805) 967-9093"
+    }, 
+    "www.highdesertpregnancyclinic.org": {
+        "city": "Yucca Valley", 
+        "name": "High Desert Pregnancy Center", 
+        "number": "(760) 369-8512"
+    }, 
+    "www.internationallifeservices.org": {
+        "city": "Barstow", 
+        "name": "Barstow Pregnancy Center", 
+        "number": "(760) 256-8323"
+    }, 
+    "www.sbpcc.net": {
+        "city": "San Bernadino", 
+        "name": "San Bernadino Pregnancy Resource Center", 
+        "number": "(909) 382-4550"
+    }, 
+    "www.nightlight.org": {
+        "city": "Anaheim Hills", 
+        "name": "Nightlife Christian Adoptions", 
+        "number": "(714) 693-5437"
+    }, 
+    "www.scvpc.org": {
+        "city": "Valencia", 
+        "name": "SCV Pregnancy Center", 
+        "number": "(661) 255-0082"
+    }, 
+    "www.srcharities.org": {
+        "city": "Napa", 
+        "name": "Catholic Charities Rainbow House", 
+        "number": "(707) 258-0260"
+    }, 
+    "www.sanclementepregnancy.com": {
+        "city": "San Clemente", 
+        "name": "Pregnancy Resource Center", 
+        "number": "(949) 218-5777"
+    }, 
+    "www.alphaphc.com": {
+        "city": "Merced", 
+        "name": "Alpha Pregnancy Help Center", 
+        "number": "(209) 383-4700"
+    }, 
+    "www.birthright.org": {
+        "city": "San Leandro", 
+        "name": "Birthright of San Lorenzo", 
+        "number": "(510) 481-9677"
+    }, 
+    "www.sloalpha.org": {
+        "city": "San Luis Obispo", 
+        "name": "Alpha Pregnancy and Parenting Support", 
+        "number": "(805) 541-3367"
+    }, 
+    "www.jdswomencenter.org": {
+        "city": "San Jose", 
+        "name": "Juan Diego Pregnancy Center", 
+        "number": "(408) 258-2008"
+    }, 
+    "www.montereycpc.com": {
+        "city": "Monterey", 
+        "name": "Compassion Pregnancy Center and Clinic", 
+        "number": "(831) 373-8535"
+    }, 
+    "www.thecenterukiah.org": {
+        "city": "Ukiah", 
+        "name": "Pregnancy Counseling Center of Ukiah", 
+        "number": "(707) 463-1436"
+    }, 
+    "www.prcsfv.org": {
+        "city": "North Hills", 
+        "name": "Pregnancy Resource Center of San Fernando Valley", 
+        "number": "(818) 830-1200"
+    }, 
+    "use.glorifyjesus.com": {
+        "city": "Bakersfield", 
+        "name": "Life House Pregnancy Center", 
+        "number": "(661) 323-2229"
+    }, 
+    "N/A": {
+        "city": "Yuba City", 
+        "name": "ProLife Pregnancy Alliance ", 
+        "number": "(530) 671-5500"
+    }, 
+    "www.bgmh.org": {
+        "city": "Sacramento", 
+        "name": "Bishop Gallegos Maternity Home", 
+        "number": "(916) 395-9370"
+    }, 
+    "www.familyresourcecenter.inf": {
+        "city": "Covina", 
+        "name": "Family Resource Center", 
+        "number": "(626) 967-9221"
+    }, 
+    "www.ecpcc.org": {
+        "city": "El Cajon", 
+        "name": "East County Pregnancy Care Clinic", 
+        "number": "(619) 442-4357"
+    }, 
+    "www.tobyshouse.org": {
+        "city": "Aliso Viejo", 
+        "name": "Toby's House", 
+        "number": "(949) 661-4408"
+    }, 
+    "www.brookingspregnancy.org": {
+        "city": "Cresent City", 
+        "name": "The Pregnancy Care Center of Cresent City", 
+        "number": "(707) 465-0271"
+    }, 
+    "www.alternativespc.org": {
+        "city": "Sacramento", 
+        "name": "Alternatives Pregnancy Resource Center", 
+        "number": "(916) 880-4040"
+    }, 
+    "www.birthchoicetemecula.com": {
+        "city": "Temecula", 
+        "name": "Birth Choice of Temecula", 
+        "number": "(951) 699-9808"
+    }, 
+    "www.svpregnancyclinic.com": {
+        "city": "Roseville", 
+        "name": "Sacramento Life Center", 
+        "number": "(916) 451-2273"
+    }, 
+    "www.riversidelifeservices.org": {
+        "city": "Riverside", 
+        "name": "Riverside Life Services", 
+        "number": "(951) 784-2422"
+    }, 
+    "www.pregnancyhelptoday.com": {
+        "city": "Grass Valley", 
+        "name": "LivingWell Medical Clinic", 
+        "number": "(530) 272-6800"
+    }, 
+    "www.pregnancycareclinic.net": {
+        "city": "Whittier", 
+        "name": "Whittier Pregnancy Care Clinic", 
+        "number": "(562) 902-2273"
+    }, 
+    "www.pcceureka.org": {
+        "city": "Eureka", 
+        "name": "Pregnancy Care Center of the North Coast", 
+        "number": "(707) 444-0423"
+    }, 
+    "www.santacruzprc.org": {
+        "city": "Santa Cruz", 
+        "name": "Pregnancy Resource Center of Santa Cruz County", 
+        "number": "(831) 475-2200"
+    }, 
+    "www.pregnancyfallbrook.com": {
+        "city": "Fallbrook", 
+        "name": "Fallbrook Pregnancy Resource Center", 
+        "number": "(760) 728-4105"
+    }, 
+    "www.choiceline.org": {
+        "city": "Palm Desert", 
+        "name": "Crisis Pregnancy Center", 
+        "number": "(888) 956-4357"
+    }, 
+    "www.tenderlife.org": {
+        "city": "Ventura", 
+        "name": "Tender Life Maternity Hom", 
+        "number": "(805) 653-7474"
+    }, 
+    "www.wehelpyou.org": {
+        "city": "Bakersfield", 
+        "name": "Bakersfield Pregnancy Center", 
+        "number": "(661) 326-1907"
+    }, 
+    "www.internationallifeservices.com": {
+        "city": "Wilmington", 
+        "name": "Harbor Pregnancy Services", 
+        "number": "(310) 518-4135"
+    }, 
+    "www.lahabralifecenter.org": {
+        "city": "La Habra", 
+        "name": "La Habra Life Center", 
+        "number": "(562) 691-9395"
+    }, 
+    "www.bethany.org": {
+        "city": "Modesto", 
+        "name": "Bethany Christian Services", 
+        "number": "(209) 522-5121"
+    }, 
+    "www.mtnpregnancy.org": {
+        "city": "Crestline", 
+        "name": "Mountain Pregnancy Cente", 
+        "number": "(909)338-0848"
+    }, 
+    "www.alphapc.org": {
+        "city": "San Francisco", 
+        "name": "Alpha Pregnancy Center", 
+        "number": "(415) 584-6800"
+    }, 
+    "www.friendsoflifenetwork.com": {
+        "city": "Santa Barbara", 
+        "name": "Network Medical Pregnancy Center", 
+        "number": "(805) 967-9093"
+    }, 
+    "www.birthchoice.net": {
+        "city": "San Marcos", 
+        "name": "Birth Choice of San Marcos", 
+        "number": "(760) 744-1313"
+    }, 
+    "www.avpcc.com": {
+        "city": "Palmdale", 
+        "name": "Women's Clinic Antelope Valley", 
+        "number": "(661) 947-0400"
+    }, 
+    "www.livinghelpcenter.org": {
+        "city": "Downey", 
+        "name": "Living Help Center", 
+        "number": "(562) 923-4357"
+    }, 
+    "www.placervillepcs.org": {
+        "city": "Placerville", 
+        "name": "Pregnancy Counseling Services", 
+        "number": "(530) 626-6720"
+    }, 
+    "www.awomansfriend.com": {
+        "city": "Ft. Bragg", 
+        "name": "A Woman's Friend", 
+        "number": "(707) 964-1368"
+    }, 
+    "www.alternateavenues.net": {
+        "city": "Montclair", 
+        "name": "Alternate Avenues", 
+        "number": "(909) 398-4838"
+    }, 
+    "www.carenetsm.com": {
+        "city": "Santa Maria", 
+        "name": "Care Net Pregnancy and Resource", 
+        "number": "N/A"
+    }, 
+    "www.sdlifechoices.org": {
+        "city": "San Diego", 
+        "name": "Life Choices Pregnancy Center", 
+        "number": "(858) 486-1738"
+    }, 
+    "www.mmpregnancy.org": {
+        "city": "San Diego", 
+        "name": "Turning Point Pregnancy Resource Center", 
+        "number": "(858) 457-7800"
+    }, 
+    "www.venturacpc.org": {
+        "city": "Ventura", 
+        "name": "Ventura County Pregnancy Center", 
+        "number": "(805) 644-3307"
+    }, 
+    "www.californiaprolife.org": {
+        "city": "Santa Ana", 
+        "name": "Life Center of Santa Ana", 
+        "number": "(714) 835-5433"
+    }, 
+    "www.teenshelter.org": {
+        "city": "Santa Ana", 
+        "name": "Mary's Shelter", 
+        "number": "(714) 730-0930"
+    }, 
+    "www.coronalife.org": {
+        "city": "Corona", 
+        "name": "Corona Life Services", 
+        "number": "(951) 272-3670"
+    }, 
+    "www.portervilleprc.com": {
+        "city": "Porterville", 
+        "name": "Porterville Pregnancy Resource Center", 
+        "number": "(559) 782-1225"
+    }, 
+    "www.desertbirthchoice.org": {
+        "city": "La Quinta", 
+        "name": "Birth Choice of the Desert", 
+        "number": "(760) 755-5683"
+    }
+}
