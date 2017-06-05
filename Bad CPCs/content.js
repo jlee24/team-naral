@@ -1,6 +1,27 @@
 var elements = document.getElementsByTagName('*');
 
 var treeWalker = document.createTreeWalker(document.body, NodeFilter.SHOW_ALL);
+
+// Dynamically Reading JSON
+
+var clinic_names = [];
+var clinic_name = "";
+
+$.ajax({
+    url: 'database.json',
+    async: false,
+    dataType: 'json',
+    success: function (data) {
+        json_data = data;
+        for(var i = 0; i < json_data.length; i++) {
+            clinic_name = json_data[i];
+            clinic_names.push(clinic_name);
+        }
+    }   
+}); 
+
+console.log(clinic_names);
+
 var names = ["birthchoiceclinic", "treeoflifepsc", "wehelpyou", "californiaprolife.org", "lifecall.org", "pregnancyresourcecenter.com", "avenuespc.org", "highdesertpregnancyclinic.org"];
 
 // runs through all Nodes in DOM to find cpc url
