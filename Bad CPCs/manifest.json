@@ -4,6 +4,11 @@
     "description": "Alert user of CPCs",
     "version": "1.0",
     "web_accessible_resources": ["alert.png", "Stolzl-Regular.otf"],
+    "browser_action": {
+        "default_icon": "alert.png",
+        "default_popup": "popup.html",
+        "default_title": "NARAL"
+    },
     "content_scripts": [
         {
             "matches": [

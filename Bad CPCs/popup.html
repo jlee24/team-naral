@@ -1,0 +1,85 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html>
+  <head>
+    <title>NARAL CPC IDENTIFIER</title>
+    <style>
+      body {
+        font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+        font-size: 100%;
+      }
+      #status {
+        /* avoid an excessively wide status text */
+        white-space: pre;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        max-width: 1000px;
+      }
+    </style>
+
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: https://developer.chrome.com/extensions/contentSecurityPolicy
+     -->
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <h5 style="float:right; margin-top: 0px; margin-bottom: 10px;">NARAL Chrome Extension</h5>
+    <p style="float:right; font-size: 10px; margin-top: 0px;"> Got a CPC or an Abortion Clinic for us to add? Please enter it below - address, website and all - and we will review it!</p>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <!-- Style The Contact Form How Ever You Prefer -->
+    <link rel="stylesheet" href="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/style.css">
+
+    <form id="gform" method="POST" class="pure-form pure-form-stacked" action="https://script.google.com/macros/s/AKfycbwQeSdYy3BmEvrCGeVcX7yeH2uJzF64kzUpH-pbuFf0bNMWkZ4/exec">
+    <!-- change the form action to your script url -->
+
+    <fieldset class="pure-group">
+      <label for="group" style="margin-bottom: 5px; font-size: 10px;">CPC or Clinic?</label>
+      <input style="font-size: 10px; width: 150px" id="group" name="group" placeholder="Is this a CPC or Clinic?" />
+    </fieldset>
+
+    <fieldset class="pure-group">
+      <label style="margin-bottom: 5px; font-size: 10px;" for="name">Name of CPC</label>
+      <input style="font-size: 10px; width: 150px" id="name" name="name" placeholder="What's the name of the CPC or Clinic?" />
+    </fieldset>
+
+    <fieldset class="pure-group">
+      <label style="margin-bottom: 5px; font-size: 10px;" for="address">Address</label>
+      <input style="font-size: 10px; width: 150px" id="address" name="address" placeholder="Do you Know the Address?"></input>
+    </fieldset>
+
+    <fieldset class="pure-group">
+      <label style="margin-bottom: 5px; font-size: 10px;" for="address">Website</label>
+      <input style="font-size: 10px; width: 150px" id="website" name="website" placeholder="What Website Did You Find It On?"></input>
+    </fieldset>
+
+    <fieldset class="pure-group">
+      <label  style="margin-bottom: 5px; font-size: 10px;" for="email"><em>Your</em> Email Address</label>
+      <input style="margin-bottom: 0px; font-size: 10px; width: 150px" id="email" name="email" type="email" value="" required placeholder="your.name@email.com"/>
+      <span id="email-invalid" style="visibility:hidden; margin-bottom: 0px; font-size: 5px;"> Must be a valid email address</span>
+    </fieldset>
+
+    <button style="margin-top: 0px; font-size: 15px;" class="button-success pure-button button-xlarge">
+      <i style="margin-top: 0px; float: left;" class="fa fa-paper-plane"></i>&nbsp;Send</button>
+
+  </form>
+
+  <!-- Customise the Thankyou Message People See when they submit the form: -->
+  <div style="display:none;" id="thankyou_message">
+    <h2><em>Thanks</em> for Contacting Us and Keeping Women Safe!</h2>
+  </div>
+
+  <!-- Submit the Form to Google Using "AJAX" -->
+  <script data-cfasync="false" type="text/javascript" src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
+  <!-- <script data-cfasync="false" type="text/javascript" src="/form-submission-handler.js"></script> -->
+  <!-- END -->
+  </body>
+</html>
+
